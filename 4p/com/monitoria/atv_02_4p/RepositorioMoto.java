@@ -4,16 +4,9 @@ package com.monitoria.atv_02_4p;
 public class RepositorioMoto {
 	
 	Moto[] moto = new Moto[5];
+	//Moto[] moto;
 	private int indice = 0;
-		
-	/*
-	ArrayList<Moto> moto = new ArrayList<Moto>();
-		
-	public void setItem(Moto moto) {
-		this.moto.add(moto);
-	}
-	*/
-	
+
 	public void setItem(Moto moto) {
 		this.moto[indice] = moto;
 		indice++;

@@ -3,7 +3,7 @@ package com.monitoria.atv_01_1p;
 /**
  * 
  * @author José Cristiano
- * Crie tabuada de 1 a 10.
+ * Crie a tabuada de 1 a 10.
  */
 
 

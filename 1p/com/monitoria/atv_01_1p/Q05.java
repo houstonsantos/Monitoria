@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * 
  * @author Houston Santos
- * 
+ * Informe um número e calcule seu fatorial.
  */
 
 public class Q05 {

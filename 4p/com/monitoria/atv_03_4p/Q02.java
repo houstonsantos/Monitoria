@@ -4,7 +4,11 @@ import javax.swing.JOptionPane;
 /**
  * 
  * @author Houston Santos
- *
+ * Escreva um código onde peça ao usuário para informar seu cargo, 
+ * onde as opções a serem apresentadas são (1 = Diretoria, 2 = Gerência e 3 = Operacional), 
+ * posteriormente peça o salário bruto, depois o valor do desconto. 
+ * E apresente o valor no qual ele tem direito a empréstimo sendo (30% = Diretoria, 25% = Gerência e 20% = Operacional) 
+ * aplicado sobre o valor líquido. Usar a classe JOptionPane.
  */
 
 public class Q02 {

@@ -11,4 +11,4 @@ Publicações de exercícios e correções, referente a cadeira de Programação Orient
 * **4º Período**
 	* Atv_01 - Corrigida
 	* Atv_02 - Corrigida
-	* Atv_03 - Em desenvolvimento
+	* Atv_03 - Corrigida

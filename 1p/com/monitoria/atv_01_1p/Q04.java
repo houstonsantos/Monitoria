@@ -10,9 +10,11 @@ import java.util.Scanner;
 
 public class Q04 {
 
+	private static Scanner scan;
+
 	public static void main(String[] args) {
 		
-		Scanner scan = new Scanner(System.in);
+		scan = new Scanner(System.in);
 		        
 		int primeiro = 1;
 		int segundo = 1;

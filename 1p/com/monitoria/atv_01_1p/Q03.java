@@ -18,9 +18,11 @@ import java.util.Scanner;
 
 public class Q03 {
 
+	private static Scanner scan;
+
 	public static void main(String[] args) {
 		
-		 Scanner scan = new Scanner(System.in);
+		 scan = new Scanner(System.in);
 		         
 		 System.out.println("Entre com a primeira nota:");
 		 double nota1 = scan.nextDouble();

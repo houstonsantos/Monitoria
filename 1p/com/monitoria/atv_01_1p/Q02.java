@@ -9,9 +9,11 @@ import java.util.Scanner;
 
 public class Q02 {
 
+	private static Scanner scan;
+
 	public static void main(String[] args) {
 		
-		Scanner scan = new Scanner(System.in);
+		scan = new Scanner(System.in);
 		        
 		System.out.println("Entre com primeiro número:");
 		int num1 = scan.nextInt();

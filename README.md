@@ -1,6 +1,6 @@
 # Monitoria
 
-Publicações de exercícios e correções, referente a cadeira de Programação Orientada a Objetos do curso de **Ciência da Computação** 2º e 4º, professor **Sérgio Endrigo**, **Centro Universitário dos Guararapes.**
+Publicações de exercícios e correções, referente a cadeira de Programação Orientada a Objetos do curso de **Ciência da Computação** 1º, 2º e 4º, professor **Sérgio Endrigo**, **Centro Universitário dos Guararapes.**
 
 * **1º Período**
 	* Atv_01 - Corrigida
